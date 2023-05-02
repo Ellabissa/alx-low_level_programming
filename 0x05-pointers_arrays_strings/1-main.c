@@ -17,3 +17,4 @@ int main(void)
 	swap_int(&a, &b);
 	printf("a=%d, b=%d\n", a, b);
 	return (0);
+}

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * swap_int - take in two variables integers and swaps them
+ * swap_int - take in two variable integers and swap them
  * @author Anisah
  * @a: swaps and stores address of b
  * @b: swaps and stores address of a
@@ -10,7 +10,7 @@
 
 void swap_int(int *a, int *b)
 {
-int swap;
+int change;
 change = *b;
 *b = *a;
 *a = change;
