@@ -8,8 +8,8 @@
  */
 int main(void)
 {
-char buffer[] = "This is a string!\0An
-d this is the rest of the #buffer :)
+char buffer[] = "This is a string!\0
+And this is the rest of the #buffer :)
 \1\2\3\4\5\6\7#cisfun\n\0\0\0\0\0\0\0
 \0\0\0\0\0\0\0\0\0\0\0\0\x20\x21\x34
 \x56#pointersarefun #infernumisfun\n";
